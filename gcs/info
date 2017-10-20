@@ -1,0 +1,27 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: ca-certificates-es
+
+# Autor 
+author: Alfonso de Cala <alfonso.cala@juntadeandalucia.es>
+
+#Priority
+priority: optional
+
+# Section
+section: misc
+
+# Descripción corta
+shortdesc: "Common Spanish CA certificates."
+
+# Descipción larga, las lineas han de estar separadas por "\n "
+longdesc: " Contains the certificate authorities used in Spain\n.\nPlease note that maintainer can neither confirm nor deny whether the\ncertificate authorities whose certificates are included in this package\nhave in any way been audited for trustworthiness or RFC 3647 compliance.\nFull responsibility to assess them belongs to the local system\nadministrator."
+
+# Versión del paquete
+version: 1.0
+
+# Cambios en esta versión
+changes:
+    - Initial release.
