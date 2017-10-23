@@ -17,7 +17,7 @@ section: misc
 shortdesc: "Common Spanish CA certificates."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "Certificate Authorities commonly used in Spain."
+longdesc: " Contains the certificate authorities used in Spain.\n Please note that maintainer can neither confirm nor deny whether the\n certificate authorities whose certificates are included in this package\n have in any way been audited for trustworthiness or RFC 3647 compliance.\n Full responsibility to assess them belongs to the local system\n administrator."
 
 # Versión del paquete
 version: 1.0
