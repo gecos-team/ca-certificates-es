@@ -1,3 +1,9 @@
+Source: ca-certificates-es
+Section: misc
+Priority: optional
+Maintainer: Alfonso de Cala <alfonso.cala@juntadeandalucia.es>
+Homepage: https://github.com/gecos-team/ca-certificates-es
+
 Package: ca-certificates-es
 Version: 20171013
 Architecture: all
