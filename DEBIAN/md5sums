@@ -1,0 +1,14 @@
+b9ecc4225ee106c77e46210bf879c029  usr/share/ca-certificates/FNMT/AC_Administracion_Publica_SHA256.crt
+645330c9d6dd0c20de9db943bc4a4a81  usr/share/ca-certificates/FNMT/AC_Componentes_Informaticos_SHA256.crt
+f65a89d9e7bd68634b0076359c71350b  usr/share/ca-certificates/FNMT/AC_FNMT_Usuarios.crt
+1cb5f41bce6d7ad3825ba5fb80ffcbf2  usr/share/ca-certificates/FNMT/AC_Raiz_FNMT-RCM_SHA256.crt
+0adb8d6275636042e2950f344e8d9e77  usr/share/ca-certificates/FNMT/AC_Representacion.crt
+aa41cb9815a25ea6cdc26a65cc035434  usr/share/ca-certificates/FNMT/FNMTClase2CA.crt
+7f7b17272de904f28c90acc598afe70b  usr/share/ca-certificates/DNI-E/ACDNIE001-SHA2.crt
+5b6aa3c57a689aeb7d29701e919c4f96  usr/share/ca-certificates/DNI-E/ACDNIE002-SHA2.crt
+67a10e5691c8c58be5ba918cce90e87e  usr/share/ca-certificates/DNI-E/ACDNIE003-SHA2.crt
+13b3778a9c94af1960c32dab6cd75c74  usr/share/ca-certificates/DNI-E/AC_DNIE_004.crt
+0d320adb49b97bc035254cdec7bbb1fd  usr/share/ca-certificates/DNI-E/AC_DNIE_005.crt
+b70d0243cbb65a11d6f6b1c93da7588b  usr/share/ca-certificates/DNI-E/AC_DNIE_006.crt
+c6dd7e4f4aed1d9e7ee7a6f90390ba44  usr/share/ca-certificates/DNI-E/AC RAIZ DNIE 2.crt
+155ef5117aa2c1150e927e66fe3b84c3  usr/share/ca-certificates/DNI-E/ACRAIZ-SHA1.crt

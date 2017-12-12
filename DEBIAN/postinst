@@ -51,16 +51,11 @@ case "$1" in
             chown $(stat -c %u /usr/local):$(stat -c %g /usr/local) /usr/local/share/ca-certificates || true
         fi
 
-	# update /etc/ssl/certs without running the hooks
-	# fix bogus symlink to ca-certificates.crt on upgrades; see
-	# Debian #643667; drop after wheezy
-	if dpkg --compare-versions "$2" lt-nl 20111025; then
-	    update-ca-certificates --hooksdir "" --fresh
-	else
-	    update-ca-certificates --hooksdir ""
-	fi
+
+        update-ca-certificates 
+
 	# deferred update of /etc/ssl/certs including running the hooks
-	dpkg-trigger --no-await update-ca-certificates
+	# dpkg-trigger --no-await update-ca-certificates
     ;;
 
     triggered)
