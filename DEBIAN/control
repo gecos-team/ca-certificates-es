@@ -1,0 +1,18 @@
+Package: ca-certificates-es
+Version: 20171013
+Architecture: all
+Maintainer: Alfonso de Cala <alfonso.cala@juntadeandalucia.es>
+Installed-Size: 427
+Depends: ca-certificates
+Enhances: openssl
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: Common Spanish CA certificates
+ Contains the certificate authorities used in Spain
+ .
+ Please note that maintainer can neither confirm nor deny whether the
+ certificate authorities whose certificates are included in this package
+ have in any way been audited for trustworthiness or RFC 3647 compliance.
+ Full responsibility to assess them belongs to the local system
+ administrator.
