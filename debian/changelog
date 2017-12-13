@@ -1,3 +1,9 @@
+ca-certificates-es (2.1gecos1) trusty; urgency=low
+
+  * Repackaging for distromatic
+
+ -- Alfonso de Cala <alfonso.cala@juntadeandalucia.es>  Tue, 13 Dec 2017 11:00:00 +0100
+
 ca-certificates-es (2.0gecos1) trusty; urgency=low
 
   * Updated version
